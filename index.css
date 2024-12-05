@@ -20,7 +20,7 @@ flex-direction: column;
     display: flex;
     justify-content: center;
 }
-
+p {color: #FDF4FB ;}
 h1 {
 display: flex;
     justify-content: center;
