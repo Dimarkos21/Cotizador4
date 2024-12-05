@@ -20,10 +20,12 @@ flex-direction: column;
     display: flex;
     justify-content: center;
 }
-p {color: #FDF4FB ;}
+
 h1 {
+    font-size: 2.5rem;
 display: flex;
     justify-content: center;
+  color: aqua;
 
 }
 
@@ -37,9 +39,8 @@ display: flex;
 button {
 font-size: 1rem;
 background-color: transparent;
-color: #FDF4FB ;
 border-radius: 0.2rem;
-
+color: white;
 }
 
 button:hover {
