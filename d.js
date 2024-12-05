@@ -26,7 +26,7 @@ boton.addEventListener("click" , e => {
   
   
      
-    }, 100);
+    }, 1000);
 
     
   
